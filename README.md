@@ -11,3 +11,4 @@ This project focuses on building a fully functional Quiz Application using HTML,
 <img width="344" height="266" alt="Image" src="https://github.com/user-attachments/assets/7c9c843a-4a41-4e29-990f-972267703580" />
 <img width="344" height="279" alt="Image" src="https://github.com/user-attachments/assets/d304c21a-d4e5-4dd3-acca-a40a84c7eaa7" />
 <img width="341" height="268" alt="Image" src="https://github.com/user-attachments/assets/5e83e036-adb9-4288-85a5-0d43c2780a52" />
+<img width="345" height="265" alt="Image" src="https://github.com/user-attachments/assets/a3e2ba7a-5013-45b2-8898-715a5b58ba29" />
